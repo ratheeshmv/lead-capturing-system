@@ -50,7 +50,7 @@
                     </div>
                     <div class="mb-3">
                       <label for="address">Address</label>
-                      <input type="text" class="form-control" id="address" placeholder="1234 Main St" >
+                      <input type="text" class="form-control" id="address" >
                     </div>
                     <div class="mb-3">
                       <label for="email">Home square footage</label>
