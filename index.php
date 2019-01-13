@@ -7,11 +7,9 @@
 
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap.min.css">
-<!--<link rel="stylesheet" type="text/css" href="https://getbootstrap.com/docs/4.2/examples/cover/cover.css">-->
 <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
 <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
 <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap.min.js"></script>
-<script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-2.2.4.js" ></script>
 </head>
 
 <body>
